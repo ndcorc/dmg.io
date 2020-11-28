@@ -1,0 +1,112 @@
+{
+  "VkRNAFZR8HZG5WHrBlA6": {
+    "leaders": [
+      {
+        "userId": {
+          "__datatype__": "documentReference",
+          "value": "users/nd.corc@gmail.com"
+        },
+        "name": "Nolan Corcoran"
+      }
+    ],
+    "gid": "VkRNAFZR8HZG5WHrBlA6",
+    "church": "Austin Stone DT",
+    "domain": "mc-corc-kirk",
+    "img": "",
+    "name": "MC - Corcoran/Kirkland",
+    "admin": {
+      "userId": "HugZcNEkYbZDleSDvk2e3YWFhc62",
+      "name": "Nolan Corcoran"
+    },
+    "meeting_schedule": { "day": "", "location": "", "time": "" },
+    "partners": ["XQGYjulU7pX87qwXpE5d"],
+    "members": ["HugZcNEkYbZDleSDvk2e3YWFhc62"],
+    "__collections__": {
+      "channels": {
+        "GPAW1mMGi7rWIvrxoviJ": {
+          "name": "general",
+          "type": "TOPIC",
+          "visibility": "OPEN",
+          "__collections__": {
+            "users": {
+              "HugZcNEkYbZDleSDvk2e3YWFhc62": {
+                "rsvp": "UNSET",
+                "invitation": false,
+                "uid": "HugZcNEkYbZDleSDvk2e3YWFhc62",
+                "__collections__": {}
+              }
+            }
+          }
+        }
+      },
+      "meetings": {
+        "4cZwTl4EDGjoiVWjD7Fv": {
+          "chapter": "",
+          "date": {
+            "__datatype__": "timestamp",
+            "value": { "_seconds": 1591833600, "_nanoseconds": 0 }
+          },
+          "scriptureMemory": "",
+          "book": "",
+          "coreTruth": "",
+          "bibleStudy": "",
+          "type": "study",
+          "location": {
+            "__datatype__": "geopoint",
+            "value": { "_latitude": 30.14, "_longitude": 97.43 }
+          },
+          "__collections__": {}
+        }
+      },
+      "prayerRequests": {
+        "K3i8hFxzOl3cDaKbnDyJ": { "userId": {}, "__collections__": {} }
+      }
+    }
+  },
+  "XQGYjulU7pX87qwXpE5d": {
+    "domain": "oraclecross",
+    "church": "The Well",
+    "leaders": [
+      {
+        "__datatype__": "documentReference",
+        "value": "users/nd.corc@gmail.com"
+      }
+    ],
+    "gid": "XQGYjulU7pX87qwXpE5d",
+    "img": "",
+    "members": [
+      {
+        "__datatype__": "documentReference",
+        "value": "users/nd.corc@gmail.com"
+      }
+    ],
+    "name": "Oracle CROSS",
+    "admin": {
+      "name": "Nolan Corcoran",
+      "userId": "HugZcNEkYbZDleSDvk2e3YWFhc62"
+    },
+    "__collections__": {
+      "channels": {
+        "2nQaoruMSQzL5HXSU0uw": {
+          "topic": "",
+          "private": false,
+          "messages": ["msgId"],
+          "name": "general",
+          "members": ["uid"],
+          "creator": "uid",
+          "purpose": "",
+          "__collections__": {}
+        }
+      },
+      "meetings": {
+        "95ABmP38xVD2UVwNK5hC": {
+          "meeting_details": { "day": "", "time": "", "location": "" },
+          "__collections__": {}
+        }
+      },
+      "prayerRequests": {
+        "SfdUH8UAt8aESkq8bTiQ": { "__collections__": {} }
+      }
+    }
+  }
+}
