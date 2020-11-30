@@ -1,0 +1,84 @@
+{
+  "HugZcNEkYbZDleSDvk2e3YWFhc62": {
+    "joinedGroups": [
+      {
+        "groupName": "MC - Corcoran/Kirkland",
+        "groupId": "VkRNAFZR8HZG5WHrBlA6",
+        "domain": "mc-corc-kirk"
+      },
+      {
+        "domain": "oraclecross",
+        "groupId": "XQGYjulU7pX87qwXpE5d",
+        "groupName": "Oracle CROSS"
+      }
+    ],
+    "uid": "HugZcNEkYbZDleSDvk2e3YWFhc62",
+    "email": "nd.corc@gmail.com",
+    "groups": [
+      {
+        "displayName": "nolan",
+        "preferences": {
+          "autosetTimeZone": true,
+          "optimizeImgUpload": true,
+          "collapseImages": false,
+          "markAsReadImmediately": false,
+          "displayFullName": false,
+          "language": "English (US)",
+          "displayTypingIndicator": true,
+          "use24clock": false,
+          "webBrowser": "Chrome"
+        },
+        "avatar": {
+          "secondaryColor": "0xff423830",
+          "img": "",
+          "primaryColor": "0xff2f9eb0"
+        },
+        "active": true,
+        "timeZone": "CST",
+        "phoneNumber": "(832) 622-1587",
+        "directMessages": [
+          {
+            "messages": ["msgId"],
+            "recipient": "userId",
+            "lastRead": "msgId",
+            "pinned": [""]
+          }
+        ],
+        "drafts": [],
+        "doNotDisturb": false,
+        "notifications": {
+          "onMobile": "As soon as I'm inactive",
+          "sound": "Ding",
+          "includePreview": true,
+          "schedule": {
+            "allowStart": "8:00 AM",
+            "allowDays": "Every Day",
+            "allowEnd": "10:00 PM"
+          },
+          "threadNotify": true,
+          "inAppNotify": true,
+          "notifyWhen": "Direct messages & mentions"
+        },
+        "gid": "VkRNAFZR8HZG5WHrBlA6",
+        "bio": "what I do",
+        "savedItems": [],
+        "fullName": "Nolan Corcoran",
+        "channels": [
+          {
+            "channelId": "channel id",
+            "pinned": [""],
+            "lastRead": "msgId",
+            "name": "channel name"
+          }
+        ],
+        "muted": false,
+        "threads": [],
+        "password": "",
+        "mentions": [],
+        "starred": false
+      }
+    ],
+    "currentGroup": "VkRNAFZR8HZG5WHrBlA6",
+    "__collections__": {}
+  }
+}

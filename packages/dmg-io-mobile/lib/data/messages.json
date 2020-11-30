@@ -1,0 +1,22 @@
+{
+  "TWe1zRpwobqT6wHJpazs": {
+    "type": "action",
+    "msg": "joined #general",
+    "sender": "uid",
+    "timestamp": {
+      "__datatype__": "timestamp",
+      "value": { "_seconds": 1598763600, "_nanoseconds": 0 }
+    },
+    "__collections__": {}
+  },
+  "YEUrmaY24rK5WQSSzkIQ": {
+    "sender": "uid",
+    "msg": "Hello, this is a message",
+    "type": "user",
+    "timestamp": {
+      "__datatype__": "timestamp",
+      "value": { "_seconds": 1598763600, "_nanoseconds": 0 }
+    },
+    "__collections__": {}
+  }
+}
